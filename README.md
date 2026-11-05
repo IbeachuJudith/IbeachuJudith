@@ -1,6 +1,6 @@
 ## Hi, I'm Judith
 
-I'm a Data Analyst passionate about using data to uncover insights, solve business problems, and support better decision-making. I work across data cleaning, analysis, and visualization, while exploring AI-assisted analytics using ChatGPT.
+I'm a Data Analyst passionate about using data to uncover insights, solve business problems, and support better decision-making. I work across data cleaning, analysis, and visualization, while exploring AI-assisted analytics using ChatGPT/Claude.
 
 ## Areas of Interest
 - Marketing Analytics
