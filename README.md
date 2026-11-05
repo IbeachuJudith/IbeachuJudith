@@ -10,7 +10,7 @@ I'm a Data Analyst, Data Analyst Instructor and AI-Assisted Analytics Practition
 ### Tools & Technologies
 - **Analysis:** Excel, SQL, Power BI
 - **Data Preparation:** Power Query
-- **AI-Assisted Analytics:** ChatGPT,Claude I
+- **AI-Assisted Analytics:** ChatGPT, Claude
 - **Currently Learning:** Python
 
 ### What I Do
