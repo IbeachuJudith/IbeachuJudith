@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Judith
 
-<!--
-**IbeachuJudith/IbeachuJudith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about using data to uncover insights, solve business problems, and support better decision-making. I work across data cleaning, analysis, and visualization, while exploring AI-assisted analytics using ChatGPT.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Marketing Analytics
+- Product Analytics
+- Business Analytics
+- Customer Behaviour & Growth Analytics
+- Data-Driven Decision Making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- **Data Analysis:** Excel, SQL, Power BI
+- **Data Preparation:** Power Query
+- **AI-Assisted Analytics:** ChatGPT, Claude
+- **Currently Exploring:** Python, Advanced Analytics
+
+## What I Do
+- Clean, transform, and analyze datasets.
+- Build dashboards and reports to communicate insights.
+- Use data to understand customer behaviour and business performance.
+- Leverage AI tools to support data exploration and analysis.
+- Translate analytical findings into actionable recommendations.
+
+## Let's Connect
+www.linkedin.com/in/judith-ibeachu-939a96212
